@@ -1,0 +1,87 @@
+body
+{
+	width: 90%;
+	
+}
+/*
+#body
+{
+	background-image: url('feu.jpeg');
+	background-size: 100% 100%;
+	opacity: ;
+}
+*/
+table
+{
+	
+}
+
+h1
+{
+	margin: auto;
+	text-align: center;
+		font-family: alameda;
+
+}
+
+
+td
+{
+	color: #E4CEBB;
+	font-family: avenir;
+}
+
+#fond
+{
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	opacity: 85%;
+	z-index: -1;
+}
+
+
+@font-face {
+  font-family: alameda;
+  src: url(fonts/AlamedaScript_PERSONAL_USE_ONLY.otf);
+}
+@font-face {
+  font-family: Better-Yesterday;
+  src: url(fonts/Better-Yesterday.otf);
+}
+
+
+.price
+{
+	margin: auto;
+	position: relative;
+	left: 20px;
+	color: white;
+	font-family: Better-Yesterday;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+a
+{
+	text-decoration: none; 
+	color: white;
+	font-family: avenir;
+	font-weight: bold;
+}
+
+.pad
+{
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+#grill
+{
+	width: 50%;
+}
+
+#titre
+{
+	text-align: center;
+}

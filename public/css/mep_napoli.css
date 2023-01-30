@@ -1,0 +1,46 @@
+body
+{
+	background-color: black;
+			background-image: url("img/motif.png");
+
+}
+
+@font-face {
+  font-family: South;
+  src: url(fonts/Southland-TTF.ttf);
+}
+
+@font-face {
+  font-family: little;
+  src: url(fonts/Little-days.ttf);
+}
+
+h1
+{
+	font-family: south;
+	color: #E4CEBB;
+	font-size: 3em;
+	margin: auto;
+}
+p
+{
+	color: white;
+	font-family: little;
+	font-size: 2em;
+}
+
+#corps
+{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: auto;
+	width: 75%;
+
+}
+
+
+#img
+{
+	width: 60%;
+}
